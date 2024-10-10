@@ -4,7 +4,6 @@ cmake
 git
 libabsl-dev
 libbenchmark-dev
-<<<<<<< HEAD
 libboost-context1.83-dev
 libboost-coroutine1.83-dev
 libboost-filesystem1.83-dev
@@ -14,17 +13,6 @@ libboost-program-options1.83-dev
 libboost-regex1.83-dev
 libboost-stacktrace1.83-dev
 libboost1.83-dev
-=======
-libboost-context1.74-dev
-libboost-coroutine1.74-dev
-libboost-filesystem1.74-dev
-libboost-iostreams1.74-dev
-libboost-locale1.74-dev
-libboost-program-options1.74-dev
-libboost-regex1.74-dev
-libboost-stacktrace1.74-dev
-libboost1.74-dev
->>>>>>> e3bc653bc (Reapply "add ubuntu-24.04")
 libbson-dev
 libbz2-dev
 libc-ares-dev
