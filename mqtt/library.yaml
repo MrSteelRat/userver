@@ -1,0 +1,9 @@
+project-name: userver-mqtt
+project-alt-names:
+  - yandex-userver-mqtt
+maintainers:
+  - Common components
+description: MQTT
+
+libraries:
+  - userver-core
