@@ -1,0 +1,9 @@
+project-name: userver-ttpoe
+project-alt-names:
+  - yandex-userver-ttpoe
+maintainers:
+  - Common components
+description: TTPoe (TESLA Transport Protocol over Ethernet)
+
+libraries:
+  - userver-core
